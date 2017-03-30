@@ -1,2 +1,2 @@
-# workspaceAndroid
+# AppDice
 OpenClassroom exercice

@@ -1,2 +1,2 @@
 # workspaceAndroid
-work on android studio
+OpenClassroom exercice
